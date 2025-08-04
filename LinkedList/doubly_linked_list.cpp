@@ -1,5 +1,8 @@
 #include <iostream>;
 using namespace std;
+///
+
+
 
 class DoublyLinkedList
 {
@@ -18,6 +21,7 @@ private:
 	};
 
 	Node* Head;
+	
 
 public:
 	DoublyLinkedList()
