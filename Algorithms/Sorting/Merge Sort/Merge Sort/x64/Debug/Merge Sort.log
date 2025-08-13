@@ -1,0 +1,3 @@
+﻿  Merge Sort.cpp
+C:\Users\Kirollos\Desktop\Data Structures and Algorithms\Algorithms\Sorting\Merge Sort\Merge Sort.cpp(30,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Merge Sort.vcxproj -> C:\Users\Kirollos\Desktop\Data Structures and Algorithms\Algorithms\Sorting\Merge Sort\x64\Debug\Merge Sort.exe

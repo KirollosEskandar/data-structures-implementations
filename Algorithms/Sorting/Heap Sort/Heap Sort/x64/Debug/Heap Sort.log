@@ -1,0 +1,3 @@
+﻿  Heap Sort.cpp
+C:\Users\Kirollos\Desktop\Data Structures and Algorithms\Algorithms\Sorting\Heap Sort\Heap Sort.cpp(54,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Heap Sort.vcxproj -> C:\Users\Kirollos\Desktop\Data Structures and Algorithms\Algorithms\Sorting\Heap Sort\x64\Debug\Heap Sort.exe
